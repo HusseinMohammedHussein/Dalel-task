@@ -8,7 +8,6 @@ No backend integration, no API calls, and all content is powered by **dummy/stat
 - Flutter (stable)
 - Material 3 (Material UI only)
 - Dummy repository layer (no networking)
-- Light/Dark theme
 - Localization readiness (EN/AR)
 
 ## Project structure
